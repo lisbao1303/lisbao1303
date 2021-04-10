@@ -2,7 +2,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/gabriel.lisbao)
+[![Spotify](https://lisbao1303.vercel.app/api/spotify)](https://open.spotify.com/user/gabriel.lisbao)
 
 <!--
 **lisbao1303/lisbao1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
