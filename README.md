@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Spotify](https://lisbao1303.vercel.app/api/spotify)](https://open.spotify.com/user/gabriel.lisbao)
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-lisbao1303.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/gabriel.lisbao)
 
 <!--
 **lisbao1303/lisbao1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
