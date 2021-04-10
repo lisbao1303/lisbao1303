@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/09DTiTZKjUYpIhi9FkpoY2?si=6a60eb0366f440b6)
-
+[![Spotify](https://lisbao1303.vercel.app/api/spotify)](https://open.spotify.com/user/gabriel.lisbao)
 
 <!--
 **lisbao1303/lisbao1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
