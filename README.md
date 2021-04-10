@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/album/4b1GTLyzyDlZkrhUiRa8Sa)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/09DTiTZKjUYpIhi9FkpoY2?si=6a60eb0366f440b6)
 
 
 <!--
