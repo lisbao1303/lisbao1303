@@ -7,10 +7,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Elisbão</h1>
 <h3 align="center">A fan of software engineering, web/mobile development, embedded systems, technology to connect and impact people. I am a knowledge seeker in search for new challenges outside of my university, I have developed some amateur projects, freelancer projects, projects in junior company , and a short term professional experience in web and mobile development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lisbao1303&label=Profile%20views&color=0e75b6&style=flat" alt="lisbao1303" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lisbao1303" alt="lisbao1303" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabrielelisbao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielelisbao" height="30" width="40" /></a>
