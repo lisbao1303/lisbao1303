@@ -2,4 +2,4 @@
 
 ### Contribs
 
-![Contrib from Me](https://github.com/endersonmenezes/endersonmenezes/blob/output/github-snake.svg)
+![Contrib from Me](https://github.com/endersonmenezes/endersonmenezes/blob/output/github-snake-dark.svg)
